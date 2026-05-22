@@ -26,3 +26,6 @@ AI-powered customer support automation workflow built with n8n.
 3. Add your credentials
 4. Configure your Google Sheets and Gmail
 5. Activate workflow
+6. ## Workflow Overview
+
+![Workflow](screenshots/workflow-overview.png)
